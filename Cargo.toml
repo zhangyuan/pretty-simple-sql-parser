@@ -1,5 +1,5 @@
 [package]
-name = "bq-parser"
+name = "pretty-simple-sql-parser"
 version = "0.1.0"
 authors = ["Yuan Zhang <zhangyuan@users.noreply.github.com>"]
 edition = "2018"
